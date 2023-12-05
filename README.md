@@ -1,4 +1,11 @@
-### Hi there 👋
+<div >
+  <picture>
+ <img alt="A bumblebee flying across the screen on a yellow background" src="https://www.m-boe.com/wp-content/uploads/2023/12/bumbleb_bg.png">
+</picture>
+</div>
+<h1 align="center">Welcome to my bumble abode!</h1>
+
+
 
 <!--
 **mar-ols/mar-ols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
