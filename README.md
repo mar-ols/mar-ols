@@ -10,7 +10,7 @@
 
 - 🌱 What I've learned so far is **Figma, HTML, CSS, Javascript, React, Bootstrap, Wordpress and Git, but I am always looking to expand my knowledge and add new skills.**
 
-- 👨‍💻 Some of my newest projects are available at this repo's **<a href="https://mbo-portfolio.netlify.app" target="_blank" rel="noreferrer">live site</a>. This will be updated as I work on new projects.**
+- 👨‍💻 Some of my newest projects are available in my **<a href="https://mbo-portfolio.netlify.app" target="_blank" rel="noreferrer">portfolio</a>. This will be updated as I work on new projects.**
 
 - :hammer: As a worker **I'm focused, detail-oriented and hard-working. I'm an introvert but like to keep a light, happy tone with co-workers. And when starting new projects I don't like to procrastinate but rather dive in and get a lot done in the beginning stage to leave more room for fine improvement and fixing potential bugs later on.**
 
